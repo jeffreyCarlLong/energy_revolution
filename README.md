@@ -148,4 +148,32 @@ Citations:
 
 [5] [https://www.townoftruckee.com/government/community-development/building-and-safety/online-permits-inspections](https://www.townoftruckee.com/government/community-development/building-and-safety/online-permits-inspections)
 
+To apply for a building permit in Truckee, CA, follow these steps based on the information provided in the search results:
+
+1. **Check Permit Requirements**: Visit the Town of Truckee's Building and Safety Division website to understand the specific permit requirements for your project. Over-the-counter permits have minimum requirements, but projects needing plan review have specific documentation needs[1].
+
+2. **Submit Online or Email Documentation**: For projects like Solar Photovoltaic and Fire Sprinklers, you can apply online, but required documentation must be emailed to cdd@townoftruckee.com. Other projects like additions, conversions, detached structures, and new single-family residences require detailed submittal packages via email[1].
+
+3. **Apply Online Through eSuite**: Utilize the eSuite system provided by the Building and Safety Division to apply for permits online. This platform allows you to submit applications, request or cancel inspections, check permit status, and make online payments conveniently[4].
+
+4. **Visit Town Hall**: If you prefer in-person assistance, you can visit Truckee Town Hall located at 10183 Truckee Airport Road during business hours to apply for building permits or seek guidance from the Building Division staff[2].
+
+5. **Ensure Compliance**: Before submitting your application, ensure that your project complies with local building codes and regulations to avoid delays or issues during the permit approval process[4].
+
+6. **Contact Information**: For further assistance or inquiries regarding building permits in Truckee, you can reach out to the Building and Safety Division at 530-582-7821 or via email at cdd@townoftruckee.com[4].
+
+By following these steps and utilizing the online resources provided by the Town of Truckee, you can successfully navigate the process of applying for a building permit in Truckee, CA.
+
+Citations:
+
+[1] [https://www.townoftruckee.com/government/community-development/building-and-safety/permit-requirements](https://www.townoftruckee.com/government/community-development/building-and-safety/permit-requirements)
+
+[2] [https://www.nevadacountyca.gov/DocumentCenter/View/20376/TOT-Building-Clearance-App---Fillable](https://www.nevadacountyca.gov/DocumentCenter/View/20376/TOT-Building-Clearance-App---Fillable)
+
+[3] [https://www.icarol.info/resourceview2.aspx?agencynum=4662520&org=2265](https://www.icarol.info/resourceview2.aspx?agencynum=4662520&org=2265)
+
+[4] [https://www.townoftruckee.com/government/community-development/building-and-safety/online-permits-inspections](https://www.townoftruckee.com/government/community-development/building-and-safety/online-permits-inspections)
+
+[5] [https://www.nevadacountyca.gov/2288/Town-of-Truckee](https://www.nevadacountyca.gov/2288/Town-of-Truckee)
+
 
