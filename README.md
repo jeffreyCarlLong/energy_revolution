@@ -138,6 +138,7 @@ To obtain a building permit in Truckee, CA, you can follow these steps based on 
 By following these steps and utilizing the online resources provided by the Town of Truckee, you can successfully obtain a building permit for your project in Truckee, CA.
 
 Citations:
+
 [1] [https://www.townoftruckee.com/services/permits-open-counter](https://www.townoftruckee.com/services/permits-open-counter)
 
 [2] [https://www.icarol.info/resourceview2.aspx?agencynum=4662520&org=2265](https://www.icarol.info/resourceview2.aspx?agencynum=4662520&org=2265)
