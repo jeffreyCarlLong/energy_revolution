@@ -5,6 +5,10 @@ Steps toward more efficient houses in Tahoe and SoCal.
 
 1. Install solar in SoCal home in Ventura, CA.
 2. Install heat pump in Tahoe home in Truckee, CA.
+  
+## To Do
+
+Check permits in Truckee.
 
 ## SoCal Solar
 
